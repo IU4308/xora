@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-    <a href="xora-mauve.vercel.app" target="_blank">
+    <a href="https://xora-mauve.vercel.app" target="_blank">
       <img src="https://github.com/user-attachments/assets/a582919b-1bdf-4cb2-af44-69b2159cf109" alt="Project Banner">
     </a>
   <br />
@@ -12,6 +12,11 @@
   </div>
 
 <h3 align="center">Modern UI/UX SaaS Website</h3>
+<a href="https://youtu.be/Zq5fmkH0T78?feature=shared" target="_blank">
+      Built with the tutorial from JavaScript Mastery
+    </a>
+<br />
+
 </div>
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
