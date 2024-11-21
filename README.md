@@ -12,7 +12,7 @@
   </div>
 
 <h3 align="center">Modern UI/UX SaaS Website</h3>
-<a href="https://youtu.be/Zq5fmkH0T78?feature=shared" target="_blank">
+<a href="https://youtu.be/ukiGFmZ32YA" target="_blank">
       Built with the tutorial from JavaScript Mastery
     </a>
 <br />
